@@ -5,7 +5,7 @@ openai.api_type = "azure"
 openai.api_base = "https://openai-acronymdecoder.openai.azure.com/"
 openai.api_version = "2023-03-15-preview"
 
-openai.api_key = "48bf1e95d0404634b9e4f3ea042b8a99"
+openai.api_key = ""
 
 #ask a question through the terminal
 question = input("What is your Microsoft acronym question: ")
